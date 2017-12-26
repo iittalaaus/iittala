@@ -1,0 +1,13 @@
+designers:
+
+   - id: 0001
+      FirstName:    Göran 
+      Surname:      Hongell 
+      YearOfBirth:  1902
+      YearOfDeath:  1973
+
+   - id: 0002
+      FirstName:    Aino
+      Surname:      Aalto 
+      YearOfBirth:  1894
+      YearOfDeath:  1949
